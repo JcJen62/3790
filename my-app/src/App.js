@@ -1,10 +1,10 @@
 import './App.css';
-import VehicleContainer from './components/VehicleContainer';
+import AnimeContainer from './components/AnimeContainer';
 
 function App() {
   return (
     <div className="App">
-      <VehicleContainer></VehicleContainer>
+      <AnimeContainer></AnimeContainer>
     </div>
   );
 }
