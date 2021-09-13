@@ -1,11 +1,10 @@
 import './App.css';
-import VehicleCard from './components/VehicleCard';
-import Card from './components/VehicleCard';
+import VehicleContainer from './components/VehicleContainer';
 
 function App() {
   return (
     <div className="App">
-      <Card><VehicleCard></VehicleCard></Card>
+      <VehicleContainer></VehicleContainer>
     </div>
   );
 }

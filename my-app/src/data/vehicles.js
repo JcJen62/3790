@@ -1,5 +1,6 @@
 export const vehicles = [
   {
+    id: 1,
     name: "Sand Crawler",
     model: "Digger Crawler",
     manufacturer: "Corellia Mining Corporation",
@@ -18,6 +19,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/4/",
   },
   {
+    id: 2,
     name: "T-16 skyhopper",
     model: "T-16 skyhopper",
     manufacturer: "Incom Corporation",
@@ -36,6 +38,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/6/",
   },
   {
+    id: 3,
     name: "X-34 landspeeder",
     model: "X-34 landspeeder",
     manufacturer: "SoroSuub Corporation",
@@ -54,6 +57,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/7/",
   },
   {
+    id: 4,
     name: "TIE/LN starfighter",
     model: "Twin Ion Engine/Ln Starfighter",
     manufacturer: "Sienar Fleet Systems",
@@ -76,6 +80,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/8/",
   },
   {
+    id: 5,
     name: "Snowspeeder",
     model: "t-47 airspeeder",
     manufacturer: "Incom corporation",
@@ -97,6 +102,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/14/",
   },
   {
+    id: 6,
     name: "TIE bomber",
     model: "TIE/sa bomber",
     manufacturer: "Sienar Fleet Systems",
@@ -115,6 +121,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/16/",
   },
   {
+    id: 7,
     name: "AT-AT",
     model: "All Terrain Armored Transport",
     manufacturer: "Kuat Drive Yards, Imperial Department of Military Research",
@@ -133,6 +140,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/18/",
   },
   {
+    id: 8,
     name: "AT-ST",
     model: "All Terrain Scout Transport",
     manufacturer: "Kuat Drive Yards, Imperial Department of Military Research",
@@ -151,6 +159,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/19/",
   },
   {
+    id: 9,
     name: "Storm IV Twin-Pod cloud car",
     model: "Storm IV Twin-Pod",
     manufacturer: "Bespin Motors",
@@ -169,6 +178,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/20/",
   },
   {
+    id: 10,
     name: "Sail barge",
     model: "Modified Luxury Sail Barge",
     manufacturer: "Ubrikkian Industries Custom Vehicle Division",
@@ -187,6 +197,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/24/",
   },
   {
+    id: 11,
     name: "Bantha-II cargo skiff",
     model: "Bantha-II",
     manufacturer: "Ubrikkian Industries",
@@ -205,6 +216,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/25/",
   },
   {
+    id: 12,
     name: "TIE/IN interceptor",
     model: "Twin Ion Engine Interceptor",
     manufacturer: "Sienar Fleet Systems",
@@ -223,6 +235,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/26/",
   },
   {
+    id: 13,
     name: "Imperial Speeder Bike",
     model: "74-Z speeder bike",
     manufacturer: "Aratech Repulsor Company",
@@ -244,6 +257,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/30/",
   },
   {
+    id: 14,
     name: "Vulture Droid",
     model: "Vulture-class droid starfighter",
     manufacturer: "Haor Chall Engineering, Baktoid Armor Workshop",
@@ -262,6 +276,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/33/",
   },
   {
+    id: 15,
     name: "Multi-Troop Transport",
     model: "Multi-Troop Transport",
     manufacturer: "Baktoid Armor Workshop",
@@ -280,6 +295,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/34/",
   },
   {
+    id: 16,
     name: "Armored Assault Tank",
     model: "Armoured Assault Tank",
     manufacturer: "Baktoid Armor Workshop",
@@ -298,6 +314,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/35/",
   },
   {
+    id: 17,
     name: "Single Trooper Aerial Platform",
     model: "Single Trooper Aerial Platform",
     manufacturer: "Baktoid Armor Workshop",
@@ -316,6 +333,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/36/",
   },
   {
+    id: 18,
     name: "C-9979 landing craft",
     model: "C-9979 landing craft",
     manufacturer: "Haor Chall Engineering",
@@ -334,6 +352,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/37/",
   },
   {
+    id: 19,
     name: "Tribubble bongo",
     model: "Tribubble bongo",
     manufacturer: "Otoh Gunga Bongameken Cooperative",
@@ -355,6 +374,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/38/",
   },
   {
+    id: 20,
     name: "Sith speeder",
     model: "FC-20 speeder bike",
     manufacturer: "Razalon",
@@ -373,6 +393,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/42/",
   },
   {
+    id: 21,
     name: "Zephyr-G swoop bike",
     model: "Zephyr-G swoop bike",
     manufacturer: "Mobquet Swoops and Speeders",
@@ -391,6 +412,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/44/",
   },
   {
+    id: 22,
     name: "Koro-2 Exodrive airspeeder",
     model: "Koro-2 Exodrive airspeeder",
     manufacturer: "Desler Gizh Outworld Mobility Corporation",
@@ -409,6 +431,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/45/",
   },
   {
+    id: 23,
     name: "XJ-6 airspeeder",
     model: "XJ-6 airspeeder",
     manufacturer: "Narglatch AirTech prefabricated kit",
@@ -427,6 +450,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/46/",
   },
   {
+    id: 24,
     name: "LAAT/i",
     model: "Low Altitude Assault Transport/infrantry",
     manufacturer: "Rothana Heavy Engineering",
@@ -445,6 +469,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/50/",
   },
   {
+    id: 25,
     name: "LAAT/c",
     model: "Low Altitude Assault Transport/carrier",
     manufacturer: "Rothana Heavy Engineering",
@@ -463,6 +488,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/51/",
   },
   {
+    id: 26,
     name: "Tsmeu-6 personal wheel bike",
     model: "Tsmeu-6 personal wheel bike",
     manufacturer: "Z-Gomot Ternbuell Guppat Corporation",
@@ -481,6 +507,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/60/",
   },
   {
+    id: 27,
     name: "Emergency Firespeeder",
     model: "Fire suppression speeder",
     manufacturer: "unknown",
@@ -499,6 +526,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/62/",
   },
   {
+    id: 28,
     name: "Droid tri-fighter",
     model: "tri-fighter",
     manufacturer: "Colla Designs, Phlac-Arphocc Automata Industries",
@@ -517,6 +545,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/67/",
   },
   {
+    id: 29,
     name: "Oevvaor jet catamaran",
     model: "Oevvaor jet catamaran",
     manufacturer: "Appazanna Engineering Works",
@@ -535,6 +564,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/69/",
   },
   {
+    id: 30,
     name: "Raddaugh Gnasp fluttercraft",
     model: "Raddaugh Gnasp fluttercraft",
     manufacturer: "Appazanna Engineering Works",
@@ -553,6 +583,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/70/",
   },
   {
+    id: 31,
     name: "Clone turbo tank",
     model: "HAVw A6 Juggernaut",
     manufacturer: "Kuat Drive Yards",
@@ -571,6 +602,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/71/",
   },
   {
+    id: 32,
     name: "Corporate Alliance tank droid",
     model: "NR-N99 Persuader-class droid enforcer",
     manufacturer: "Techno Union",
@@ -589,6 +621,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/72/",
   },
   {
+    id: 33,
     name: "Droid gunship",
     model: "HMP droid gunship",
     manufacturer: "Baktoid Fleet Ordnance, Haor Chall Engineering",
@@ -607,6 +640,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/73/",
   },
   {
+    id: 34,
     name: "AT-RT",
     model: "All Terrain Recon Transport",
     manufacturer: "Kuat Drive Yards",
@@ -625,6 +659,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/76/",
   },
   {
+    id: 35,
     name: "AT-TE",
     model: "All Terrain Tactical Enforcer",
     manufacturer: "Rothana Heavy Engineering, Kuat Drive Yards",
@@ -643,6 +678,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/53/",
   },
   {
+    id: 36,
     name: "SPHA",
     model: "Self-Propelled Heavy Artillery",
     manufacturer: "Rothana Heavy Engineering",
@@ -661,6 +697,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/54/",
   },
   {
+    id: 37,
     name: "Flitknot speeder",
     model: "Flitknot speeder",
     manufacturer: "Huppla Pasa Tisc Shipwrights Collective",
@@ -679,6 +716,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/55/",
   },
   {
+    id: 38,
     name: "Neimoidian shuttle",
     model: "Sheathipede-class transport shuttle",
     manufacturer: "Haor Chall Engineering",
@@ -697,6 +735,7 @@ export const vehicles = [
     url: "https://swapi.co/api/vehicles/56/",
   },
   {
+    id: 39,
     name: "Geonosian starfighter",
     model: "Nantex-class territorial defense",
     manufacturer: "Huppla Pasa Tisc Shipwrights Collective",
