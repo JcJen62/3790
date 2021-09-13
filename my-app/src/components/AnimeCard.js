@@ -1,9 +1,9 @@
 import { Card } from "@material-ui/core";
 
 const AnimeCard = (props) => {
-const {title, rank, mal_id} = props
+const {title, rank, id} = props
 
-    return (<Card key={mal_id}>
+    return (<Card key={id}>
         {title} {rank}
     </Card>
     )

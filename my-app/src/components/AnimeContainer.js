@@ -6,7 +6,7 @@ const AnimeContainer = () => {
         return (<AnimeCard
             title= {anime.title}
             rank= {anime.rank}
-            mal_id= {anime.mal_id}>
+            id= {anime.mal_id}>
         </AnimeCard>)
     })
 }
