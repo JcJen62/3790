@@ -1,11 +1,15 @@
-import { Card } from "@material-ui/core";
+import { Grid, Typography } from "@material-ui/core"
 
 const AnimeCard = (props) => {
-const {title, rank, id} = props
+    const {title, rank, img_url, id} = props
 
-    return (<Card key={id}>
-        {title} {rank}
-    </Card>
+    return (<Grid className="itemFlex" item xs={4} key={id}>
+        <img src={img_url} alt="Anime Poster" />
+        <div className="infoFlex">
+            <Typography>{title}</Typography>
+            <Typography>{rank}</Typography>
+        </div>
+    </Grid>
     )
 }
 
